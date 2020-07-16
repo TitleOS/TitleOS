@@ -1,7 +1,6 @@
 ### TitleOS
 
 
-- 🍎 Infosec Engineer at [Apple](https://github.com/apple)
 - 💻 Code in C#/.NET and Python
 - 💬 Ask me about my Xbox One RCE (and other Xbox exploits!)
 - 📫 How to reach me: [Twitter](https://twitter.com/XB1_HexDecimal)

@@ -9,4 +9,5 @@
 - 🎮 I hack the Xbox One/Series.
 - ⚙️ LLM AI (Pytorch, Transformers) enthusiast, wannabe expert.
 - 🤗 https://huggingface.co/TitleOS
+- 🏳️‍🌈 Proudly They/Them, as well as Pan and Agender.
 
